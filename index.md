@@ -9,6 +9,12 @@
 				console.log( "Inside Prechat API!!" );
 				embeddedservice_bootstrap.prechatAPI.setHiddenPrechatFields( { "Access_Token" : "cac5a25a-d684-464d-965c-4b732019ead1", "Origin_Page" : "/home/my-accounts", "Session_Token" : "87e10251-3892-4add-8fce-c1af9aed77b3" });
 			});
+
+<script type='text/javascript'>
+	function initEmbeddedMessaging() {
+		try {
+			embeddedservice_bootstrap.settings.language = 'en_US'; // For example, enter 'en' or 'en-US'
+
 			embeddedservice_bootstrap.init(
 				'00DUB000002gKO7',
 				'MIAW_EsmondDev4',
@@ -23,5 +29,7 @@
 	};
 </script>
 <script type='text/javascript' src='https://bordgaisenergyeandu--karishbot.sandbox.my.site.com/ESWMIAWEsmondDev41703172693512/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+
+   
  	 </body>
 </html>
