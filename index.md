@@ -8,7 +8,7 @@
 
 			window.addEventListener("onEmbeddedMessagingReady", () => {            
 				console.log( "Inside Prechat API!!" );
-				embeddedservice_bootstrap.prechatAPI.setHiddenPrechatFields( { "Access_Token" : "65bfe54a-8d6c-4212-93fa-43a24da968aa", "Origin_Page" : "/home/my-accounts", "Session_Token" : "87e10251-3892-4add-8fce-c1af9aed77b3" });
+				embeddedservice_bootstrap.prechatAPI.setHiddenPrechatFields( { "Access_Token" : "9aa045b3-05c5-4d06-b740-05b6851e35da", "Origin_Page" : "/home/my-accounts", "Session_Token" : "87e10251-3892-4add-8fce-c1af9aed77b3" });
 			});
    
 			embeddedservice_bootstrap.init(
