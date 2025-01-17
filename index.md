@@ -12,11 +12,11 @@
 			});
    
 			embeddedservice_bootstrap.init(
-				'00DUB000002gKO7',
-				'MIAW_Bot',
-				'https://bordgaisenergyeandu--karishbot.sandbox.my.site.com/ESWMIAWBot1723819197280',
+				'00DRR00000DD6FR',
+				'BGE',
+				'https://bordgaisenergyeandu--kkdev.sandbox.my.site.com/ESWBGE1719958958159',
 				{
-					scrt2URL: 'https://bordgaisenergyeandu--karishbot.sandbox.my.salesforce-scrt.com'
+					scrt2URL: 'https://bordgaisenergyeandu--kkdev.sandbox.my.salesforce-scrt.com'
 				}
 			);
 		} catch (err) {
@@ -24,7 +24,7 @@
 		}
 	};
 </script>
-<script type='text/javascript' src='https://bordgaisenergyeandu--karishbot.sandbox.my.site.com/ESWMIAWBot1723819197280/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+<script type='text/javascript' src='https://bordgaisenergyeandu--kkdev.sandbox.my.site.com/ESWBGE1719958958159/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
 
  	 </body>
 </html>
